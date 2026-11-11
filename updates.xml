@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='https://github.com/user-attachments/files/34688162/AvetrackerExtention.zip' protocol='2.0'>
+  <app appid='gpafbaalpfbcnekhjmabhmpjljfoeacc'>
+    <updatecheck codebase='https://github.com/Tafyyy/Avetracker-Extention/raw/main/AvetrackerExtention.crx' version='1.0.0' />
+  </app>
+</gupdate>
